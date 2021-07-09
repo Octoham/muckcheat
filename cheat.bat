@@ -1,2 +1,2 @@
 @echo off
-smi.exe inject -p Muck -a MuckHackv2.dll -n Loader -c Load -m CreateGameObject
+smi.exe inject -p Muck -a MuckHack.dll -n Loader -c Load -m CreateGameObject
