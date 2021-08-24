@@ -2,7 +2,7 @@
 Muck
 
 # How to use
-Make sure that your antivirus didn't block SharpMonoInjector.dll
+Make sure that your antivirus didn't block SharpMonoInjector.dll and smi.exe
 Double-click on the cheat.bat AFTER opening Muck
 
 # Credits
